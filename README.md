@@ -51,7 +51,7 @@ currently_working_on:
 currently_learning: ["React Native", "Expo", "BLE & IoT integration", C#]
 
 hobbies: ["Ants (i have three ant colonies as a hobby🐜), "Gym", "Personal projects", "Podcasts", "Gaming", "Going out with friends"]
-available_for_work: true
+available_for_work: after my internship at iconize, absolutely!
 ```
 
 ***
