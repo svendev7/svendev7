@@ -86,7 +86,7 @@ available_for_work: after my internship at iconize, absolutely!
 
 **[Ricgraph](https://github.com/UtrechtUniversity/ricgraph)** — Contributed to an open-source tool at Utrecht University that connects publication sources, researchers and organisations in a graph database. Cool problem space, learned a lot about Python and Linux tooling.
 
-**Healthy Climate Solutions App** *(private repo)* — The project I'm currently deepest in. A cross-platform React Native app for configuring and managing IoT climate monitors, including BLE and QR-based device onboarding. Built during my internship at Iconize.
+**Healthy Climate Solutions App** *(private repo)* — A cross-platform React Native app for configuring and managing IoT climate monitors, including BLE and QR-based device onboarding. Built during my internship at Iconize.
 
 **[PebblyPal](https://github.com/svendev7/CuteCalorieTrackingApp)** — An iOS app for tracking calories, meals and weight. Built with React Native, Expo, and Firebase. A project I kindof put on the backburner as there is a lot of competition, plus i have never animated hand drawn images like Pebbly, which a great deal of the "uniqueness" of the app would have come from. I may some day return to it though, as i still see potential in a gameified weight loss app.
 
